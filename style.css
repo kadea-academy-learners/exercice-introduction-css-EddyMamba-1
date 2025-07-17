@@ -1,3 +1,68 @@
 
+html{
+  background: white;
+}
+.header{
+  text-align: center; 
+}
+body{
+  background-color: #ededed;
+  font-family: 'Segoe UI', sans-serif;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   font-size: 16px;
+   line-height: 1.6;
+   letter-spacing: 0.5px;
+   padding: 10px;
+   
+
+  }
+.caption{
+  text-align: center;
+  margin-top: 15px; 
+
+ }
+ .header-image{
+  background: #fff; 
+  margin-left: 20px;
+  margin-right: 20px;
+  
+  
+ }
+  img{
+  display: block;
+  margin: 0 auto;
+  width: 70%; 
+ }
+ h2{
+  text-align: center;
+  
+}
+ul{
+  text-align: left;
+  list-style-type: disc;
+  padding-left: 20px;
+  max-width: 500px;
+  margin: auto;
+  
+  
+}
+ .cite {
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 10px;
+  
+  text-align: left;
+ } 
+p{
+  text-align: center;
+}
 
 
+
+ 
+  
+ 
+ 
+
+ 
